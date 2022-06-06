@@ -6,7 +6,8 @@
 		"3.36",
 		"3.38",
 		"40",
-		"41"
+		"41",
+		"42"
 	],
 	"uuid": "workspace-switch-wraparound@theychx.org",
 	"name": "Workspace Switch Wraparound",
